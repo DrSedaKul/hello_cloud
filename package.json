@@ -1,13 +1,11 @@
 {
   "name": "paas-demo",
   "version": "1.0.0",
-  "description": "Simple PaaS demo for cloud computing lecture",
+  "description": "Simple PaaS demo",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "express": "^4.19.2"
   }
